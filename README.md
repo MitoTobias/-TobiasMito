@@ -16,9 +16,9 @@
 
 📫 Contact Me
 - Email: mitotobias002@gmail.com  
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link) 
+- LinkedIn:www.linkedin.com/in/tobias-mito
 
-  "Always learning. Always building." 
+"Always learning. Always building." 
 
 # -TobiasMito
  A showcase of my projects and contributions as a Mathematics and Computer Science student 
